@@ -11,12 +11,14 @@ Keywords: Android, Kotlin, Jetpack Compose, CRUD-operations, Room database, depe
   <tr>
     <td>Splash Screen</td>
      <td>List Screen</td>
+     <td>Create ToDo</td>
      <td>Update or Delete</td>
   </tr>
   <tr>
-    <td><img src="images/Screenshot_To-Do_Compose3.jpg" width="250" /></td>
-    <td><img src="images/Screenshot_To-Do Compose1.jpg" width="250" /></td>
-    <td><img src="images/Screenshot_To-Do Compose2.jpg" width="250" /></td>
+    <td><img src="images/Screenshot_To-Do_Compose3.jpg" width="200" /></td>
+    <td><img src="images/Screenshot_To-Do Compose1.jpg" width="200" /></td>
+    <td><img src="images/Screenshot_To-Do Compose4.jpg" width="200" /></td>
+    <td><img src="images/Screenshot_To-Do Compose2.jpg" width="200" /></td>
   </tr>
  </table>
 
