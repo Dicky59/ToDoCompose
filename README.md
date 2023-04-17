@@ -6,4 +6,4 @@ Kotlin/Jetpack Compose application to make To-Do list. You can create, update an
 
 Keywords: Android, Kotlin, Jetpack Compose, CRUD-operations, Room database, dependency injection, Splash screen
 
-
+![](images/Screenshot_To-Do%20Compose1.jpg)
